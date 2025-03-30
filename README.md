@@ -18,9 +18,10 @@ Currently, two official plugins are available:
 ## Live Demo
 [Gen AI analytics Dashboard](https://gen-ai-dashboard-beta.vercel.app/)
 
+
+
 ## Dashboard showing query input, history panel, and dynamic chart visualization
 
-# screenshot
 ![dashboard](./public/shots.png)
 
 
