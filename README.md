@@ -16,11 +16,13 @@ Currently, two official plugins are available:
 - Redux state management  
 
 ## Live Demo
-[Vercel/Netlify Link](https://gen-ai-dashboard-beta.vercel.app/)
+[Gen AI analytics Dashboard](https://gen-ai-dashboard-beta.vercel.app/)
 
 ## Dashboard showing query input, history panel, and dynamic chart visualization
 
-![Dashboard](./public/shots.png)
+# screenshot
+![dashboard](./public/shots.png)
+
 
 ## How to Run
 
@@ -31,10 +33,5 @@ npm run dev
 
 ```
 
-## Test Cases
-Try these sample queries:
-- "sales last quarter" → Bar chart
-- "customer satisfaction distribution" → Pie chart
-- "error" → Simulates API failure
 
 
