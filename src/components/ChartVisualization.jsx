@@ -11,6 +11,7 @@ import {
   Legend
 } from 'chart.js'
 import { Bar, Line, Pie } from 'react-chartjs-2'
+import { Box } from '@mui/material'
 
 ChartJS.register(
   BarElement,
