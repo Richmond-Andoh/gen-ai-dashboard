@@ -16,7 +16,11 @@ Currently, two official plugins are available:
 - Redux state management  
 
 ## Live Demo
-[Vercel/Netlify Link](#)
+[Vercel/Netlify Link](https://gen-ai-dashboard-beta.vercel.app/)
+
+## Dashboard showing query input, history panel, and dynamic chart visualization
+
+![Dashboard](./public/shots.png)
 
 ## How to Run
 
