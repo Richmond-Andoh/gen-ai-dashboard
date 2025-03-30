@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { List, ListItem, ListItemText, Typography, Divider, Paper } from '@mui/material'
-import { History } from '@mui/icons-material'
+import HistoryIcon from '@mui/icons-material/History';
 
 const QueryHistory = () => {
   const { queryHistory } = useSelector((state) => state.query)
@@ -9,7 +9,7 @@ const QueryHistory = () => {
   return (
     <Paper sx={{ p: 2, height: '100%' }}>
       <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
-        <History sx={{ mr: 1 }} /> Query History
+        <HistoryIcon sx={{ mr: 1 }} /> Query History
       </Typography>
       <Divider sx={{ mb: 2 }} />
       
